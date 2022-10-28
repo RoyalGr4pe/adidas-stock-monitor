@@ -1,0 +1,1094 @@
+{
+    "HB7446": {
+        "id": "HB7446",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "HB7446_210",
+                "size": "XS",
+                "availability": 6,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "HB7446_230",
+                "size": "S",
+                "availability": 14,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "HB7446_250",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "HB7446_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "HB7446_290",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "HB7446_310",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "FR4279": {
+        "id": "FR4279",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "FR4279_210",
+                "size": "XS",
+                "availability": 15,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "FR4279_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FR4279_250",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FR4279_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FR4279_290",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FR4279_310",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FR4279_320",
+                "size": "3XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "FI6718": {
+        "id": "FI6718",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "FI6718_190",
+                "size": "2XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FI6718_210",
+                "size": "XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FI6718_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FI6718_250",
+                "size": "M",
+                "availability": 4,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "FI6718_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FI6718_280",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FI6718_290",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "GK9399": {
+        "id": "GK9399",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "GK9399_210",
+                "size": "XS",
+                "availability": 15,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "GK9399_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GK9399_250",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GK9399_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GK9399_290",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GK9399_310",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GK9399_320",
+                "size": "3XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "GM7186": {
+        "id": "GM7186",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "GM7186_210",
+                "size": "XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GM7186_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GM7186_250",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GM7186_270",
+                "size": "L",
+                "availability": 1,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "GM7186_290",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GM7186_310",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GM7186_320",
+                "size": "3XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "H67955": {
+        "id": "H67955",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "H67955_540",
+                "size": "4",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_550",
+                "size": "4.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_560",
+                "size": "5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_570",
+                "size": "5.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_580",
+                "size": "6",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_590",
+                "size": "6.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_600",
+                "size": "7",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_610",
+                "size": "7.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_620",
+                "size": "8",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_630",
+                "size": "8.5",
+                "availability": 1,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "H67955_640",
+                "size": "9",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_650",
+                "size": "9.5",
+                "availability": 8,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "H67955_660",
+                "size": "10",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_670",
+                "size": "10.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_680",
+                "size": "11",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_690",
+                "size": "11.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_700",
+                "size": "12",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_710",
+                "size": "12.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_730",
+                "size": "13.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "H67955_750",
+                "size": "14.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "GK6254": {
+        "id": "GK6254",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "GK6254_190",
+                "size": "2XS",
+                "availability": 1,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "GK6254_210",
+                "size": "XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GK6254_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GK6254_250",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GK6254_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GK6254_280",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GK6254_290",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "GU6982": {
+        "id": "GU6982",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "GU6982_090",
+                "size": "2-3.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GU6982_100",
+                "size": "4.5-5.5",
+                "availability": 15,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "GU6982_120",
+                "size": "6.5-8",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GU6982_140",
+                "size": "8.5-10",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GU6982_160",
+                "size": "11-12.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GU6982_180",
+                "size": "13-14.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GU6982_200",
+                "size": "15-17",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "AJ5886": {
+        "id": "AJ5886",
+        "availability_status": "NOT_AVAILABLE",
+        "variation_list": [
+            {
+                "sku": "AJ5886_200",
+                "size": "5-6Y",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "AJ5886_252",
+                "size": "XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "AJ5886_260",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "AJ5886_280",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "AJ5886_300",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "AJ5886_320",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "AJ5886_340",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "FI5004": {
+        "id": "FI5004",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "FI5004_210",
+                "size": "XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FI5004_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FI5004_250",
+                "size": "M",
+                "availability": 1,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "FI5004_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FI5004_290",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FI5004_310",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "FI5004_320",
+                "size": "3XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "DZ9040": {
+        "id": "DZ9040",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "DZ9040_290",
+                "size": "XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DZ9040_310",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DZ9040_330",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DZ9040_350",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DZ9040_370",
+                "size": "XL",
+                "availability": 13,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "DZ9040_390",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DZ9040_410",
+                "size": "3XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "DW4433": {
+        "id": "DW4433",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "DW4433_210",
+                "size": "XS",
+                "availability": 15,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "DW4433_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DW4433_250",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DW4433_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DW4433_290",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DW4433_310",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DW4433_320",
+                "size": "3XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "GQ2184": {
+        "id": "GQ2184",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "GQ2184_190",
+                "size": "2XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GQ2184_210",
+                "size": "XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GQ2184_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GQ2184_250",
+                "size": "M",
+                "availability": 2,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "GQ2184_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GQ2184_280",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GQ2184_290",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "GQ6056": {
+        "id": "GQ6056",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "GQ6056_190",
+                "size": "2XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GQ6056_210",
+                "size": "XS",
+                "availability": 1,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "GQ6056_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GQ6056_250",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GQ6056_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GQ6056_280",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GQ6056_290",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "CZ8649": {
+        "id": "CZ8649",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "CZ8649_290",
+                "size": "XS",
+                "availability": 15,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "CZ8649_310",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "CZ8649_330",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "CZ8649_350",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "CZ8649_370",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "CZ8649_390",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "CZ8649_410",
+                "size": "3XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "GT2104": {
+        "id": "GT2104",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "GT2104_190",
+                "size": "2XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GT2104_210",
+                "size": "XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GT2104_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GT2104_250",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GT2104_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GT2104_280",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GT2104_290",
+                "size": "2XL",
+                "availability": 6,
+                "availability_status": "IN_STOCK"
+            }
+        ]
+    },
+    "Q46187": {
+        "id": "Q46187",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "Q46187_580",
+                "size": "6",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_590",
+                "size": "6.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_600",
+                "size": "7",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_610",
+                "size": "7.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_620",
+                "size": "8",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_630",
+                "size": "8.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_640",
+                "size": "9",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_650",
+                "size": "9.5",
+                "availability": 1,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "Q46187_660",
+                "size": "10",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_670",
+                "size": "10.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_680",
+                "size": "11",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_690",
+                "size": "11.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_700",
+                "size": "12",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "Q46187_710",
+                "size": "12.5",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "GD2960": {
+        "id": "GD2960",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "GD2960_210",
+                "size": "XS",
+                "availability": 1,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "GD2960_230",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GD2960_250",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GD2960_270",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GD2960_280",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "DP4357": {
+        "id": "DP4357",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "DP4357_390",
+                "size": "2XS",
+                "availability": 15,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "DP4357_480",
+                "size": "XS",
+                "availability": 15,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "DP4357_500",
+                "size": "S",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_520",
+                "size": "M",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_540",
+                "size": "L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_560",
+                "size": "XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_580",
+                "size": "2XL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_753",
+                "size": "2XSL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_755",
+                "size": "XS/L",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_770",
+                "size": "SL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_790",
+                "size": "ML",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_810",
+                "size": "LL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_830",
+                "size": "XLL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "DP4357_850",
+                "size": "2XLL",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            }
+        ]
+    },
+    "GJ5635": {
+        "id": "GJ5635",
+        "availability_status": "IN_STOCK",
+        "variation_list": [
+            {
+                "sku": "GJ5635_210",
+                "size": "XS",
+                "availability": 0,
+                "availability_status": "NOT_AVAILABLE"
+            },
+            {
+                "sku": "GJ5635_230",
+                "size": "S",
+                "availability": 15,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "GJ5635_250",
+                "size": "M",
+                "availability": 15,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "GJ5635_270",
+                "size": "L",
+                "availability": 15,
+                "availability_status": "IN_STOCK"
+            },
+            {
+                "sku": "GJ5635_280",
+                "size": "XL",
+                "availability": 9,
+                "availability_status": "IN_STOCK"
+            }
+        ]
+    }
+}
