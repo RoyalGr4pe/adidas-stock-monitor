@@ -77,8 +77,7 @@ def get_product_info(sku):  # Gets all the other relavent information on the pro
 def send_update(sku, package, info=True):  # Sends the information to discord
     # This is if new_data has variation_list in it
     if info:
-        name, product_url, image_url, price, site_name, model_number = get_product_info(
-            sku=sku)
+        name, product_url, image_url, price, site_name, model_number = get_product_info(sku=sku)
         price = currency+str(price)
 
         description = f'**Model Number:** {model_number}'
@@ -88,13 +87,10 @@ def send_update(sku, package, info=True):  # Sends the information to discord
 
             data = package['Data']
 
-            sizes = '\n'.join(
-                [f"{size_prefix}  {variation['size']}" for variation in data])
-            availability = '\n'.join(
-                [str(variation['availability']) for variation in data])
+            sizes = '\n'.join([f"{size_prefix}  {variation['size']}" for variation in data])
+            availability = '\n'.join([str(variation['availability']) for variation in data])
 
-            total_stock = sum([int(variation['availability'])
-                               for variation in data])
+            total_stock = sum([int(variation['availability']) for variation in data])
 
             embed = DiscordEmbed(
                 title=name,
@@ -106,14 +102,11 @@ def send_update(sku, package, info=True):  # Sends the information to discord
 
             embed.add_embed_field(name='SKU', value=sku, inline=True)
             embed.add_embed_field(name='Price', value=price, inline=True)
-            embed.add_embed_field(
-                name='Site Name', value=site_name, inline=True)
+            embed.add_embed_field(name='Site Name', value=site_name, inline=True)
 
             embed.add_embed_field(name='Sizes', value=sizes, inline=True)
-            embed.add_embed_field(name='Availability',
-                                  value=availability, inline=True)
-            embed.add_embed_field(name='Total Stock',
-                                  value=total_stock, inline=True)
+            embed.add_embed_field(name='Availability', value=availability, inline=True)
+            embed.add_embed_field(name='Total Stock', value=total_stock, inline=True)
 
             webhook.add_embed(embed)
             webhook.execute()
